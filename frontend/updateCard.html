@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="add-card-form">
+      <h1>Update Card</h1>
+
+      <form id="form-id" action="/books" method="POST">
+        <label for="titleBook">Title:</label><br />
+        <input type="text" id="titleBook" name="fname" /><br />
+        <label for="authBook">Author: </label><br />
+        <input type="text" id="authBook" name="lname" /><br /><br />
+        <label for="descBook">Description: </label><br />
+        <input type="text" id="descBook" name="lname" /><br /><br />
+        <label for="priceBook">Price: </label><br />
+        <input type="number" id="priceBook" name="lname" /><br /><br />
+        <label for="coverBook">Cover: </label><br />
+        <input type="text" id="coverBook" name="lname" /><br /><br />
+        <input
+          onclick="window.location.href='/frontend/main.html';"
+          id="btn-modify"
+          type="submit"
+          value="Modify"
+        />
+      </form>
+      <a class="" href="main.html">go home</a>
+    </div>
+    <script type="module" src="./js/scriptUpdateCard.js"></script>
+  </body>
+</html>
