@@ -1,14 +1,6 @@
 [
   {
     "id": 1,
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "description": "A classic romance novel set in rural England, focusing on the themes of love, marriage, and social status.",
-    "price": 13,
-    "cover": "Hardcover"
-  },
-  {
-    "id": 2,
     "title": "A big part to you",
     "author": "J.R.R. Tolkien",
     "description": "The first part of the epic fantasy series, following Frodo Baggins as he sets out on a quest to destroy the One Ring.",
@@ -16,7 +8,7 @@
     "cover": "Hardcover"
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Aldous Huxley book",
     "author": "Aldous Huxley",
     "description": "A dystopian novel set in a futuristic world where individuality and creativity are suppressed in favor of stability and conformity.",
@@ -24,7 +16,7 @@
     "cover": "Paperback"
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "The Road",
     "author": "Cormac McCarthy",
     "description": "Follows a father and his young son as they journey through a post-apocalyptic world, facing numerous dangers and challenges.",
@@ -32,7 +24,7 @@
     "cover": "Paperback"
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "The Girl with the Dragon Tattoo",
     "author": "Stieg Larsson",
     "description": "description of the book khura",
@@ -40,7 +32,7 @@
     "cover": "Paperback"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Gone Girl",
     "author": "Gillian Flynn",
     "description": "A psychological thriller novel that follows the mysterious disappearance of a woman named Amy Dunne and the subsequent media frenzy.",
@@ -48,7 +40,7 @@
     "cover": "Paperback"
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "The Martian",
     "author": "Andy Weir",
     "description": "Follows astronaut Mark Watney, who is stranded on Mars and must use his ingenuity and resourcefulness to survive until rescue.",
@@ -56,7 +48,7 @@
     "cover": "Paperback"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "The Catcher in the Rye",
     "author": "J.D. Salinger",
     "description": "A novel depicting the experiences of Holden Caulfield, a disenchanted teenager in New York City.",
@@ -64,7 +56,7 @@
     "cover": "Paperback"
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "Lord of the Flies 2",
     "author": "William Golding",
     "description": "A novel about a group of boys stranded on an uninhabited island and their descent into savagery.",
