@@ -70,13 +70,5 @@
     "description": "A novel about a group of boys stranded on an uninhabited island and their descent into savagery.",
     "price": "11",
     "cover": "Paperback"
-  },
-  {
-    "id": 10,
-    "title": "Brave New World",
-    "author": "J.R.R. Tolkien",
-    "description": "Cormac McCarthy",
-    "price": "50",
-    "cover": "Andy Weir"
   }
 ]

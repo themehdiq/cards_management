@@ -11,13 +11,13 @@ async function logData() {
     card.classList.add("myCard");
 
     card.innerHTML = `
-      <h3>title: ${element.title}</h3>
-      <h3>author : ${element.author}</h3>
-      <h5>description : ${element.description}</h5>
-      <h5>price : ${element.price}</h5>
-      <h5>cover : ${element.cover}</h5>
+      <h3>${element.title}</h3>
+      <h3>Author : ${element.author}</h3>
+      <p>Description : ${element.description}</p>
+      <p>Price : ${element.price}</p>
+      <p>Cover : ${element.cover}</p>
       
-      <button class="btn-delete">delete</button>
+      <button class="btn-delete">Delete</button>
       <a
       class="btn-modify"
       href="updateCard.html?id=${element.id}"

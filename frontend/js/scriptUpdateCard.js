@@ -43,4 +43,4 @@ async function bookData(e) {
 // bookData();
 buttonModify.addEventListener("click", bookData);
 
-// window.addEventListener("DOMContentLoaded", () => bookData);
+window.addEventListener("DOMContentLoaded", () => bookData);
